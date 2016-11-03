@@ -5,7 +5,7 @@
 /*
    sumfil: sum filterbank format power spectra time series.   
  */
- 
+// 
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
